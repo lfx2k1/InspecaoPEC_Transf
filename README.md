@@ -14,7 +14,7 @@ Link de acesso para o vídeo com a explicação do código e testes na placa Bit
 - **Detecção de Zonas de Falha:** O sistema identifica quando o cursor entra em regiões simuladas com defeitos.
 - **Controle de LEDs:** LEDs indicam o status da inspeção (normal, alerta de falha, área inspecionada).
 - **Matriz de LEDs WS2812:** Representação visual dinâmica do percurso ou área inspecionada.
-- **Display OLED:** Exibe a posição do cursor, mensagens de falha e histórico da inspeção.
+- **Display OLED:** Exibe a posição do cursor, conforme o movimento do joystick.
 - **Acionamento de Buzzer:** Alarme sonoro é ativado quando o sistema detecta uma falha.
 - **Botões A e B:**  
   - **Botão A:** Exibe o histórico de falhas registradas no Serial Monitor.  
