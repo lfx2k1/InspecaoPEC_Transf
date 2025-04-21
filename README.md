@@ -17,7 +17,7 @@ Link de acesso para o vídeo com a explicação do código e testes na placa Bit
 - **Display OLED:** Exibe a posição do cursor, mensagens de falha e histórico da inspeção.
 - **Acionamento de Buzzer:** Alarme sonoro é ativado quando o sistema detecta uma falha.
 - **Botões A e B:**  
-  - **Botão A:** Exibe o histórico de falhas registradas no display OLED.  
+  - **Botão A:** Exibe o histórico de falhas registradas no Serial Monitor.  
   - **Botão B:** Realiza a reinicialização do sistema (reset).
 
 ## Hardware Utilizado
