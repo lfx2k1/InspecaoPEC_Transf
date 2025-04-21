@@ -23,7 +23,7 @@ Link de acesso para o vídeo com a explicação do código e testes na placa Bit
 ## Hardware Utilizado
 - **BitDogLab (RP2040)**
 - **Joystick Analógico (eixo X para inspeção)**
-- **LEDs (vermelho, azul, verde)**
+- **LED RGB (Na implemetação uiltizou-se apenas o canal vermelho e verde)**
 - **Matriz de LEDs WS2812 (endereçável)**
 - **Display OLED (via biblioteca SSD1306)**
 - **Buzzer**
